@@ -3,7 +3,7 @@ title: "Cantidad de colegios en la Región de la Araucanía (2005-2019)."
 author: "Daniel Pailañir"
 output: html_document
 ---
-```{r, echo = FALSE, include = FALSE}
+```{r, include = FALSE}
 library(dplyr)
 library(ggplot2)
 library(gganimate)
@@ -12,7 +12,7 @@ library(haven)
 library(gifski)
 ```
 
-```{r, echo = FALSE, include = FALSE}
+```{r, include = FALSE}
 # importamos shape de region
 region <- st_read("C:/Users/danie/Desktop/Proyectos/Mapa-Colegios/R09/comuna.shp")
 
