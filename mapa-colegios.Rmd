@@ -19,7 +19,6 @@ region <- st_read("C:/Users/danie/Desktop/Proyectos/Mapa-Colegios/R09/comuna.shp
 # importamos ubicacion de colegios
 colegios_araucania <- read_dta(
                     "C:/Users/danie/Desktop/Proyectos/Mapa-Colegios/Colegios/colegios_r9.dta")
-
 ```
 
 ```{r, echo = FALSE}
@@ -40,26 +39,5 @@ plot1 <- ggplot(data = region) +
 plot1
 
 # Exportar (opcional)
-anim_save("mapa-colegios.gif", plot1, width = 600, height = 600)
+# anim_save("mapa-colegios.gif", plot1, width = 600, height = 600)
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
