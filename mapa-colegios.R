@@ -26,4 +26,4 @@ plot1 <- ggplot(data = region) +
 # ver
 plot1
 # Exportar (opcional)
-anim_save("mapa-colegios.gif", plot1, width = 600, height = 600)
+anim_save("mapa.gif", plot1, width = 600, height = 600)
