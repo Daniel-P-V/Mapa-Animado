@@ -1,5 +1,4 @@
 # Mapa-Animado
-Markdown utilizando gganimate sobre un mapa a nivel regional.
 
 Utilicé el shapefile de la región de la Araucanía (Chile) y los datos entregados 
 por el ministerio de educación acerca de la ubicación de los colegios en Chile.
