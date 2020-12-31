@@ -7,4 +7,4 @@ cuentan con ubicación específica entre 2005-2009. Ocurre algo similar después
 2016, por lo cual el mapa debe ser mirado como orientación, más no una referencia 
 exacta de la densidad de colegios a nivel regional.
 
-![](mapa-colegios.gif)
+![](mapa.gif)
