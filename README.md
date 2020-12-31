@@ -6,3 +6,5 @@ Si bien gran parte de los colegios estaban ubicados, alrededor de 300 colegios n
 cuentan con ubicación específica entre 2005-2009. Ocurre algo similar después del 
 2016, por lo cual el mapa debe ser mirado como orientación, más no una referencia 
 exacta de la densidad de colegios a nivel regional.
+
+![](mapa-colegios.gif)
